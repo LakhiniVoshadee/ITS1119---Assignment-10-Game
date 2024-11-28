@@ -51,7 +51,7 @@
 
 
 
-<script src="Game/js/code.jquery.com_jquery-3.7.1.min.js"></script>
+<script src="Game/js/jquery-3.4.1.min.js"></script>
 <script src="Game/controller/index_Controller.js"></script>
 </body>
 </html>

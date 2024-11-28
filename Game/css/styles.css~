@@ -1,5 +1,5 @@
 body{
-    --car-width: 50px;
+    --car-width: 110px;
 
     margin: 0;
     background: url("../image/background.jpg");

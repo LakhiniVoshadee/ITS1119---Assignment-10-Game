@@ -31,14 +31,6 @@ body{
     margin: 0;
 }
 
-#game_Name{
-    position: absolute;
-    margin: auto;
-    top: 10%;
-    right: 10%;
-    font-weight: bold;
-    color: white;
-}
 
 #btn-play{
     text-align: center;
